@@ -1,8 +1,8 @@
-# Netrunner Overlay Engine — Distribuição oficial
+# Netrunner Stream Overlay Engine — Distribuição oficial
 
 Este repositório publica somente os binários oficiais do Netrunner Overlay Engine para Windows.
 
-O código-fonte do aplicativo não é distribuído neste repositório. Para baixar uma versão, acesse a seção [Releases](https://github.com/Rk7gamerYT/netrunner-overlay-engine-releases/releases).
+O código-fonte do aplicativo não é distribuído neste repositório. Para baixar uma versão, acesse a seção [Releases](https://github.com/Rk7gamerYT/netrunner-stream-overlay-engine-releases/releases).
 
 ## Arquivos da distribuição
 
